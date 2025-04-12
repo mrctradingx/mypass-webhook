@@ -1,0 +1,13 @@
+{
+  "name": "mypass-webhook",
+  "version": "1.0.0",
+  "description": "Webhook server for MyPass Delivery",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase-admin": "^11.0.0"
+  }
+}
